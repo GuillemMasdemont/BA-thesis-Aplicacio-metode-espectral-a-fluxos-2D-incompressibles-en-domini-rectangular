@@ -1,0 +1,79 @@
+SECCIÓ 4 — README (CAT / ES / EN)
+==================================
+
+CATALÀ
+------
+Aquesta carpeta conté el codi de la Secció 4 del treball: un esquema espectral
+(Fourier–Txebitxev) per a Navier–Stokes en 2D. El programa està dividit en
+diverses seccions/mòduls.
+
+COM INICIAR
+- Inicieu l’execució amb el quadern Jupyter: "Seccio 4 - Navier Stokes - FourierTxebitxev.ipynb".
+  Des d’allà es configuren les condicions inicials i es fan les simulacions (la primera simulacio pot trigar lleugerament mes de l'esperar atès que computar i guardar les matrius.)
+
+CONTINGUT PRINCIPAL
+- Animacions/            GIFs de la simulació per a certes condicions inicials.
+- Figura11/, Figura12/, Figura13/  Dades i sortides per a les figures 11, 12 i 13 de la memòria.
+- funcions_de_dibuix.py  Funcions de gràfic/visualització.
+- Integrador_numeric.py  Ensembla el càlcul i evoluciona la solució en el temps.
+                         El terme lineal s’aplica directament en aquest integrador.
+- terme_forces.py        Implementació del terme de forces exteriors per a l’integrador.
+- terme_no_lineal.py     Implementació del terme no lineal (convectiu).
+- matrius.py             Calcula i desa les matrius de transformació.
+- utils.py               Funcions base i funcions test del mètode espectral.
+- Fitxers_interns/       Fitxers intermedis o auxiliars generats.
+
+NOTA SOBRE L’IDIOMA
+La memòria i els comentaris del codi estan redactats en català.
+
+
+CASTELLANO
+----------
+Esta carpeta contiene el código de la Sección 4 del trabajo: un esquema
+espectral (Fourier–Txebitxev) para Navier–Stokes en 2D. El programa está
+dividido en varios módulos/secciones.
+
+CÓMO INICIAR
+- Comience ejecutando el cuaderno Jupyter: "Seccio 4 - Navier Stokes - FourierTxebitxev.ipynb".
+  Desde él se configuran las condiciones iniciales y se lanzan las simulaciones (la primera simulación puede tardar ligeramente más ya que se computan y guardan las matrices). 
+
+CONTENIDO PRINCIPAL
+- Animacions/            GIFs de la simulación para ciertas condiciones iniciales.
+- Figura11/, Figura12/, Figura13/  Datos y salidas para las figuras 11, 12 y 13 de la memoria.
+- funcions_de_dibuix.py  Funciones de graficado/visualización.
+- Integrador_numeric.py  Orquesta el cálculo y evoluciona la solución en el tiempo.
+                         El término lineal se aplica directamente en este integrador.
+- terme_forces.py        Implementación del término de fuerzas externas para el integrador.
+- terme_no_lineal.py     Implementación del término no lineal (convectivo).
+- matrius.py             Calcula y guarda las matrices de transformación.
+- utils.py               Funciones base y funciones test del método espectral.
+- Fitxers_interns/       Ficheros intermedios o auxiliares generados.
+
+NOTA SOBRE EL IDIOMA
+La memoria y los comentarios del código están redactados en catalán.
+
+
+ENGLISH
+-------
+This folder contains the code for Section 4 of the thesis: a spectral scheme
+(Fourier–Txebitxev) for 2D Navier–Stokes. The program is organized into several
+modules/sections.
+
+HOW TO START
+- Start from the Jupyter notebook: "Seccio 4 - Navier Stokes - FourierTxebitxev.ipynb".
+  From there, you set the initial conditions and run the simulations (first simulation may last more than expected due to the computation and storage of the transformation matrices).
+
+MAIN CONTENTS
+- Animacions/            GIFs of the simulation for specific initial conditions.
+- Figura11/, Figura12/, Figura13/  Data and outputs for thesis Figures 11, 12, and 13.
+- funcions_de_dibuix.py  Plotting/visualization utilities.
+- Integrador_numeric.py  Orchestrates the computation and advances the solution in time.
+                         The linear term is applied directly within this integrator.
+- terme_forces.py        External-forces term used by the integrator.
+- terme_no_lineal.py     Nonlinear (convective) term implementation.
+- matrius.py             Computes and saves the transformation matrices.
+- utils.py               Basis and test functions for the spectral method.
+- Fitxers_interns/       Intermediate or auxiliary generated files.
+
+LANGUAGE NOTE
+The thesis report and code comments are written in Catalan.
