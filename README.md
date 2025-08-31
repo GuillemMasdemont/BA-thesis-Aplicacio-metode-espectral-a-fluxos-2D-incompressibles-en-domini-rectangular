@@ -12,7 +12,7 @@ Contingut del repositori:
 
 CASTELLANO
 ----------
-Este repositorio recopila los códigos del Trabajo de Fin de Grado “Aplicación de un método espectral a flujos bidimensionales incompresibles en un dominio rectangular”, defendido en junio de 2025 por Guillem Masdemont Serra en la Universitat Autònoma de Barcelona, bajo la supervisión de la Prof. Jezabel Curbelo y la coordinación del Prof. Armengol Gasull. (Esta memoria y comentarios están redactados en catalán.)
+Este repositorio recopila los códigos del Trabajo de Fin de Grado “Aplicación de un método espectral a flujos bidimensionales incompresibles en un dominio rectangular”, defendido en junio de 2025 por Guillem Masdemont Serra en la Universitat Autònoma de Barcelona, bajo la supervisión de la Prof. Jezabel Curbelo y la coordinación del Prof. Armengol Gasull. (La memoria y comentarios están redactados en catalán.)
 
 Contenido del repositorio:
 - Memoria del trabajo
@@ -24,7 +24,7 @@ Contenido del repositorio:
 
 ENGLISH
 -------
-This repository contains the codes of the Bachelor’s Thesis “Application of a spectral method to two-dimensional incompressible flows in a rectangular domain”, defended in June 2025 by Guillem Masdemont Serra at the Universitat Autònoma de Barcelona, supervised by Prof. Jezabel Curbelo and coordinated by Prof. Armengol Gasull. (This thesis report and code comments are written in Catalan.)
+This repository contains the codes of the Bachelor’s Thesis “Application of a spectral method to two-dimensional incompressible flows in a rectangular domain”, defended in June 2025 by Guillem Masdemont Serra at the Universitat Autònoma de Barcelona, supervised by Prof. Jezabel Curbelo and coordinated by Prof. Armengol Gasull. (The thesis report and code comments are written in Catalan.)
 
 Repository contents:
 - Thesis report
